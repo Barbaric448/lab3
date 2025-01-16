@@ -26,6 +26,6 @@
 
 Теперь необходимо создать две сети (для A и B, для A и C):
 <p>
-  <img src='7.png' width='720px', height='480px'>
+  <img src='7.png' width='720px', height='300px'>
 </p>
 
